@@ -1,6 +1,6 @@
 import tensorflow as tf
 import  math
-#没写placeholder,直接用numpy意思一下
+#没写placeholder
 length = 400
 channels = 64
 max_timescale = 10000.0
